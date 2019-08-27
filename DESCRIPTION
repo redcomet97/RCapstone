@@ -1,0 +1,15 @@
+Package: Project
+Type: Package
+Title: Mastering Software Development in R Capstone
+Version: 0.1.0
+Author: Eason Shen
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Mastering Software Development in R Capstone
+License: GPL-3 | file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
